@@ -1,0 +1,8 @@
+# Input Directory
+
+This directory stores user intake responses and any existing documents provided for analysis.
+
+Files typically found here:
+- intake-responses.md - Completed intake interview responses
+- existing-plans/ - Any existing preparedness documents for review
+- inventory/ - Current supply inventories

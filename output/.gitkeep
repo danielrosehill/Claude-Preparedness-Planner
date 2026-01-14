@@ -1,0 +1,13 @@
+# Output Directory
+
+This directory stores all generated preparedness documents.
+
+Output types:
+- risk-assessment-[date].md - Risk assessments
+- action-plan-[date].md - Prioritized action plans
+- sop-[scenario]-[date].md - Standard Operating Procedures
+- flowchart-[scenario]-[date].md - Decision flowcharts
+- checklist-[category]-[date].md - Supply/task checklists
+- quick-ref-[scenario]-[date].md - Quick reference cards
+- session-log.md - Session activity log
+- drill-log-[date].md - Drill completion records
