@@ -1,3 +1,5 @@
+[![Claude Code Repo](https://img.shields.io/badge/Claude%20Code-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Claude Preparedness Planner
 
 A Claude-powered workspace for developing comprehensive, personalized preparedness strategies. This is not limited to any single context—it addresses holistic preparedness across physical safety, financial security, medical readiness, and more.
@@ -68,3 +70,7 @@ All generated documents are designed to be:
 ## License
 
 Personal use. Adapt freely for your own preparedness planning.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
